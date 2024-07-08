@@ -11,7 +11,6 @@ Duration : 10th june to 10th july
 Mentor : G.SRAVANI
 
 
-Here's an overview of the basic calculator project in Java, including the key components and steps involved:
 
  Project Overview
 
